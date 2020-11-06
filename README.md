@@ -22,7 +22,13 @@
 
 
 
+除此之外
 
+
+
+<p align='center'>
+<img src='pic\Snipaste_2020-11-06_19-44-47.png' title='images' style='max-width:600px'></img>
+</p>
 
 
 
