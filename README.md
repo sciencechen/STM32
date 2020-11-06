@@ -6,7 +6,11 @@
 
 ## 二、文件目录规范
 
-![Snipaste_2020-11-06_16-48-51](pic\Snipaste_2020-11-06_17-02-52.png)
+<p align='center'>
+<img src='pic\Snipaste_2020-11-06_17-02-52.png' title='images' style='max-width:600px'></img>
+</p>
+
+
 
 使用STM32CubeMX生成工程的配置文件，
 
