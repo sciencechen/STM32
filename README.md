@@ -16,7 +16,11 @@
 
 在src中放代码文件中放代码，根据模块名，新建一个文件夹
 
-![Snipaste_2020-11-06_16-58-50](pic\Snipaste_2020-11-06_17-35-22.png)
+<p align='center'>
+<img src='pic\Snipaste_2020-11-06_17-35-22.png' title='images' style='max-width:600px'></img>
+</p>
+
+
 
 
 
