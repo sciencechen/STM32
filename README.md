@@ -29,6 +29,8 @@ STM32实验平台
 
 ## 二、文件目录规范
 
+**采用“模块化编程”的思想，根据功能不同（如：LED，蜂鸣器beep，直流电机等等），将他们的驱动代码、宏定义分开成独立的文件（如：led.c和led.h）**
+
 <p align='center'>
 <img src='pic\Snipaste_2020-11-06_17-02-52.png' title='images' style='max-width:600px'></img>
 </p>
